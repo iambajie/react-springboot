@@ -1,0 +1,26 @@
+<products>
+    <product>
+        <id>1</id>
+        <name>iphone X</name>
+        <price>10000</price>
+        <desc>64G white</desc>
+    </product>
+    <product>
+        <id>2</id>
+        <name>iphone 11</name>
+        <price>11000</price>
+        <desc>128G black</desc>
+    </product>
+    <product>
+        <id>3</id>
+        <name>xiaomi</name>
+        <price>5000</price>
+        <desc>128G grey</desc>
+    </product>
+    <product>
+        <id>4</id>
+        <name>oppo</name>
+        <price>6000</price>
+        <desc>256G red</desc>
+    </product>
+</products>
